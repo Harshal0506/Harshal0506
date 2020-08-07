@@ -1,4 +1,13 @@
 <div align="center">
+    जिंदगी की असली उड़ान अभी बाकी है
+
+    जिंदगी के कई इंतेहाँ अभी बाकी है
+
+    अभी तो नापी है मुट्ठी भर ज़मीन हमने
+
+    अभी तो सारा आसमान बाकी है.....
+ </div>
+<div align="center">
     <br>
     <br>
     <a href="https://status.nmoo.dev/blocks/1">
@@ -31,8 +40,3 @@
 
 ---
 
-**Now Playing** on Spotify
-
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
-</a>
